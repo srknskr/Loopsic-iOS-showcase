@@ -4,14 +4,12 @@ A rhythm and loop companion for practicing, organizing, and playing percussion p
 
 ## About
 
-Loopsic brings loop playback, rhythm browsing, custom loops, playlists, BPM control, repeat mode, and premium content together in a SwiftUI application. The production project also includes a shared audio engine, background playback support, Live Activity components, localized resources, and App Store delivery tooling.
-
-This public repository is a documentation-only showcase. Production source code, audio assets, Firebase configuration, signing material, store credentials, and private media remain private.
+Loopsic for iOS is a practice companion built around the small decisions that make a rhythm useful: choose a pattern, set its tempo, repeat it, save it into a playlist, and return to it later. The shared SwiftUI layer and audio engine support that flow across playback, custom loops, shop access, background activity, and localization.
 
 ## Screenshots
 
 <p align="center">
-  <img src="./IMG_9922.png" width="180" alt="Loopsic Club rhythm player" />
+  <img src="./IMG_9922.png" width="280" alt="Loopsic home and playback controls">
   <img src="./IMG_0140.png" width="180" alt="Select Rhythm screen" />
   <img src="./IMG_0142.png" width="180" alt="Custom Loops screen" />
   <img src="./IMG_0143.png" width="180" alt="Add to Playlist screen" />

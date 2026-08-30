@@ -10,7 +10,13 @@ This public repository is a documentation-only showcase. Production source code,
 
 ## Screenshots
 
-> Screenshots will be added here.
+<p align="center">
+  <img src="./IMG_0140.png" width="180" alt="Select Rhythm screen" />
+  <img src="./IMG_0142.png" width="180" alt="Custom Loops screen" />
+  <img src="./IMG_0143.png" width="180" alt="Add to Playlist screen" />
+  <img src="./IMG_0146.png" width="180" alt="Playlist selection screen" />
+  <img src="./IMG_0148.png" width="180" alt="Users screen" />
+</p>
 
 ## Highlights
 
@@ -56,4 +62,4 @@ The shared application layer is organized around SwiftUI views, view models, mod
 
 ## Repository scope
 
-Only showcase documentation is public here. No production Swift source, audio files, Firebase configuration, signing certificates, provisioning profiles, API keys, or App Store Connect credentials are included.
+Only showcase documentation and product screenshots are public here. No production Swift source, Firebase configuration, signing certificates, provisioning profiles, API keys, App Store Connect credentials, or private production media are included.

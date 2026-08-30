@@ -11,6 +11,7 @@ This public repository is a documentation-only showcase. Production source code,
 ## Screenshots
 
 <p align="center">
+  <img src="./IMG_9922.png" width="180" alt="Loopsic Club rhythm player" />
   <img src="./IMG_0140.png" width="180" alt="Select Rhythm screen" />
   <img src="./IMG_0142.png" width="180" alt="Custom Loops screen" />
   <img src="./IMG_0143.png" width="180" alt="Add to Playlist screen" />

@@ -3,8 +3,8 @@
 A rhythm and loop companion for practicing, organizing, and playing percussion patterns.
 
 <p>
-<a href="https://apps.apple.com/us/app/loopsic-best-drum-loops/id1645855247"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a>
-<a href="https://play.google.com/store/apps/details?id=com.serkanseker.loopsic"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a>
+<a href="https://apps.apple.com/us/app/loopsic-best-drum-loops/id1645855247"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="40" alt="Download on the App Store"></a>
+<a href="https://play.google.com/store/apps/details?id=com.serkanseker.loopsic"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play"></a>
 </p>
 
 ## About
